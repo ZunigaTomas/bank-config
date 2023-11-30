@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "API de Loans - QA"
+  contactDetails:
+    name: "Zuto - QA Dev"
+    email: "zuto@hotmail.com"
+  onCallSupport:
+    -(54)294-4901708

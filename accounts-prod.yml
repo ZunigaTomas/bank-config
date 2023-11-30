@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "API de Accounts - Prod"
+  contactDetails:
+    name: "Agustin Tomas Zuniga - Desarrollador"
+    email: "zuniga.tomas99@gmail.com"
+  onCallSupport:
+    -(54)294-4901708
