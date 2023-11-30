@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "API de Accounts - QA"
+  contactDetails:
+    name: "Tomas Zuniga - QA Dev"
+    email: "tomas.zuniga@hotmail.com"
+  onCallSupport:
+    -(54)294-4901708
