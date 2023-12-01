@@ -2,9 +2,9 @@ build:
   version: "1.0"
 
 cards:
-  message: "API de Cards - production"
+  message: "API de Cards - prod"
   contactDetails:
-    name: "Agustin Zuniga - Desarrollador"
+    name: "Agustin Zuniga - Dev"
     email: "zuniga@gmail.com"
   onCallSupport:
     -(54)294-4901708
