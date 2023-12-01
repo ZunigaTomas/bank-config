@@ -4,7 +4,7 @@ build:
 loans:
   message: "API de Loans - prod"
   contactDetails:
-    name: "Agustin - Desarrollador"
+    name: "Agustin - Dev"
     email: "agustin@gmail.com"
   onCallSupport:
     -(54)294-4901708
