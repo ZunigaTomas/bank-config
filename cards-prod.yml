@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "API de Cards - Prod"
+  message: "API de Cards - production"
   contactDetails:
     name: "Agustin Zuniga - Desarrollador"
     email: "zuniga@gmail.com"
