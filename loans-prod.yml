@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "API de Loans - Prod"
+  message: "API de Loans - production"
   contactDetails:
     name: "Agustin - Desarrollador"
     email: "agustin@gmail.com"
