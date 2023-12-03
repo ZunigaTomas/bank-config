@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "API de Accounts - Dev"
+  message: "API de Accounts - Developer"
   contactDetails:
     name: "Agustin Tomas Zuniga - Desarrollador"
     email: "zuniga.tomas99@gmail.com"
