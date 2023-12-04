@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "API de Accounts - prod"
+  message: "API de Accounts - production"
   contactDetails:
     name: "Agustin Tomas Zuniga - Dev"
     email: "{cipher}5169a827988c427f11c8086b88f71db9504d0d71d519f2c422ddca11a43e0a2c222e17098b7e35a7f8be2e9385402feb"
